@@ -6,20 +6,63 @@
 
 # Topics
 ### 리눅스의 기본 커맨드
-- cd, pwd, ls, cp, mv, mkdir, rm, touch, ln, echo, cat, tail, find, ps, kill, grep, wc, df, du
+- cd, 
+- pwd, 
+- ls, 
+- cp, 
+- mv, 
+- mkdir, 
+- rm, 
+- touch, 
+- ln, 
+- echo, 
+- cat, 
+- tail, 
+- find, 
+- ps, 
+- kill, 
+- grep, 
+- wc, 
+- df, 
+- du
 - 파이프(|) 문자
 
 
 ### 리눅스의 기본적인 디렉토리 구성
-- /bin, /usr/bin, /boot, /dev, /etc, /home, /lib, /mnt, /proc, /root, /sbin, /usr/sbin, /tmp, /usr, /var
+- /bin 
+- /usr
+- /bin, 
+- /boot, 
+- /dev, 
+- /etc, 
+- /home, 
+- /lib, 
+- /mnt, 
+- /proc, 
+- /root, 
+- /sbin, 
+- /usr/sbin, 
+- /tmp, 
+- /usr, 
+- /var
 
 
 ### 쉘과 환경변수와 퍼미션
-- sh, bash, zsh
-- .bash_profile, .bashrc, .zshrc
-- env, set, unset, export
-- chmod, chown, chgrp
-- setuid, Sticky bit
+- sh, 
+- bash, 
+- zsh
+- .bash_profile, 
+- .bashrc, 
+- .zshrc
+- env, 
+- set, 
+- unset, 
+- export
+- chmod, 
+- chown, 
+- chgrp
+- setuid, 
+- Sticky bit
 
 ### 운영체제의 기초
 - 프로세스와 쓰레드
@@ -32,26 +75,38 @@
 
 
 ### vi
-- i, w, q, u, d, p 명령
+- i, 
+- w, 
+- q, 
+- u, 
+- d, 
+- p
 
 ## Resources
 
-The Linux command line for beginners
+- The Linux command line for beginners
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
-The Linux Directory Structure, Explained
+- The Linux Directory Structure, Explained
+https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/
 
-Unix / Linux - What is Shells?
+- Unix / Linux - What is Shells?
+https://www.tutorialspoint.com/unix/unix-what-is-shell.htm
 
-zsh
+- zsh
+https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
-About systemd
+- About systemd
+https://www.infoworld.com/article/2832405/what-is-systemd-and-why-does-it-matter-to-linux-users.html
 
-About linux distributions
+- About linux distributions
+https://thebloggingpot.com/2018/05/23/different-linux-distributions-explained/
 
-RPM and YUM package management
+- RPM and YUM package management
+https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-102-5/
 
-File editing with vi
-
+- File editing with vi
+https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-103-8/
 
 
 # Checklist
