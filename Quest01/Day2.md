@@ -223,7 +223,7 @@ https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-103-8/
 - 인스턴스 생성
 - t3.nano 등급으로 EC2 인스턴스를 생성해 봅시다! Amazon Linux 2, Ubuntu 두 가지를 각각 생성해 봅니다.
 - EC2 생성 과정에서 .pem 파일이 하나 생기는데, 이는 저에게 슬랙을 통해 공유해 주시면 됩니다.
-- 세 배포판은 어떻게 다른가요?
+- 세 배포판은 어떻게 다른가요?.
 
 # 리눅스 연습
 - Amazon Linux 2 인스턴스에서 위의 Topics의 기본 커맨드를 연습해 봅니다.
