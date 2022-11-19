@@ -36,7 +36,7 @@
 - AdministratorAccess를 체크하고, 
 - 하단의 다음:태그와 다음:검토를 계속해서 누른 뒤, 사용자를 만듭니다.
 - 액세스 키 ID와 비밀 액세스 키, 비밀번호, 그리고 위의 안내에 써 있는 접속을 위한 
-- https://[12자리숫자].signin.aws.amazon.com/console URL을 저에게(생략) 보내 주시면 됩니다!.
+- https://[12자리숫자].signin.aws.amazon.com/console URL을 저에게(생략) 보내 주시면 됩니다!
 
 
 
